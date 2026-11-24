@@ -7,8 +7,8 @@ Trabajo Práctico Integrador **Programación 4 UTN**
 
 ## Enlaces
 
-- **Repositorio:** <PEGAR_URL_DEL_REPOSITORIO_GITHUB>
-- **Video de demostración:** <PEGAR_LINK_DEL_VIDEO>
+- **Repositorio:** https://github.com/joacoxr1/tpiprog4RodriguezJ
+- **Video de demostración:** https://drive.google.com/file/d/14F7ME9y1Y0XW_HeSKUEO4xQjjF7Bw4qj/view?usp=sharing
 
 ## Requisitos
 
